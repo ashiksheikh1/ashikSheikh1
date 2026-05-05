@@ -25,7 +25,8 @@
   <img href="https://github.com/ashiksheikh1" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashik-sheikh-4356bb259?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<a href="www.linkedin.com/in/ashik-sheikh-4356bb259
+" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
