@@ -53,33 +53,12 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
 
-
-
-  <h3 align="left">Languages and Tools:</h3>
-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb" />
-</p>
   
 </p>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://github.com/KanizSanjila" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://linkedin.com/in/kaniz-sanjila-7221483b6/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://facebook.com/profile.php?id=100094195081509" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
-</a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 - <p align="left">
