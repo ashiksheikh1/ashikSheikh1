@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **🤝 I’m looking for help with collaborating on real-world projects and improving my problem-solving skills.**
 
-- 👨‍💻 All of my projects are available at :https://github.com/ashiksheikh1 https://github.com/your-username
+- 👨‍💻 All of my projects are available at :https://github.com/ashiksheikh1
 
 - 💬 Ask me about **💬 Ask me about React, Next.js, full-stack development, REST APIs, and authentication systems**
 
@@ -23,24 +23,13 @@
 
 
 <a href=":https://github.com/ashiksheikh1" target="_blank">
-  <img href="https://github.com/ashiksheikh1" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/ashik-sheikh-4356bb259/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashik-sheikh-4356bb259?utm_source=share_via&utm_content=profile&utm_medium=member_android" 
-  target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    height="30" width="40" />
+<a href="https://www.linkedin.com/in/ashik-sheikh-4356bb259/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
 </a>
-<a  target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" alt="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
+
 </p>
 
 
