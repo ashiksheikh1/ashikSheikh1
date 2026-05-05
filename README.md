@@ -21,15 +21,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href=":https://github.com/ashiksheikh1" target="_blank">
-  <img href="https://github.com/ashiksheikh1" height="40" />
-</a>
+
 <a href=":https://github.com/ashiksheikh1" target="_blank">
   <img href="https://github.com/ashiksheikh1" height="40" />
 </a>
 
-<a href="www.linkedin.com/in/ashik-sheikh-4356bb259
-" target="_blank">
+<a href="https://www.linkedin.com/in/ashik-sheikh-4356bb259/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
