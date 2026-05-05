@@ -22,12 +22,12 @@
 <p align="left">
 
 
-<a href=":https://github.com/ashiksheikh1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://github.com/ashiksheikh1" target="_blank">
+  <imgsrc="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/ashik-sheikh-4356bb259/" target="_blank">
-  <img src="" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 </p>
