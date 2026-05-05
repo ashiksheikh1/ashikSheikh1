@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **🤝 I’m looking for help with collaborating on real-world projects and improving my problem-solving skills.**
 
-- 👨‍💻 All of my projects are available at [All of my projects are available at:https://github.com/ashiksheikh1 https://github.com/your-username](All of my projects are available at:https://github.com/ashiksheikh1 https://github.com/your-username)
+- 👨‍💻 All of my projects are available at :https://github.com/ashiksheikh1 https://github.com/your-username
 
 - 💬 Ask me about **💬 Ask me about React, Next.js, full-stack development, REST APIs, and authentication systems**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://github.com/KanizSanjila" target="_blank">
+<a href=":https://github.com/ashiksheikh1" target="_blank">
   <img href="https://github.com/ashiksheikh1" height="40" />
 </a>
 
